@@ -1,0 +1,22 @@
+# Secrets (contains Discord Client ID, etc.)
+youtube-music-player/Secrets.swift
+Secrets.swift
+
+# Xcode
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+DerivedData/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build
+build/
