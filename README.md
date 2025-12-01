@@ -21,9 +21,20 @@ A lightweight native macOS wrapper for YouTube Music with system integration.
 
 ## Installation
 
+### Homebrew (Recommended)
+
+```bash
+brew tap 0xjemm/youtube-music-macos
+brew install --cask youtube-music-macos
+xattr -cr /Applications/YouTube\ Music.app
+```
+
+### Manual
+
 1. Download the latest release from [Releases](../../releases)
-2. Drag to Applications
-3. Open and sign in to YouTube Music
+2. Extract and drag to Applications
+3. Run `xattr -cr /Applications/YouTube\ Music.app` (required for unnotarized apps)
+4. Open and sign in to YouTube Music
 
 ### Building from Source
 
