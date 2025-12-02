@@ -17,7 +17,11 @@ A lightweight native macOS wrapper for YouTube Music with system integration.
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+![App](screenshots/youtube-app.png)
+
+| Control Center | Discord Rich Presence |
+|:--------------:|:---------------------:|
+| ![Control Center](screenshots/control-center.png) | ![Discord](screenshots/discord-status.png) |
 
 ## Installation
 
